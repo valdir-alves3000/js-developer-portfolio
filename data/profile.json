@@ -16,10 +16,6 @@
         "logo": "https://raw.githubusercontent.com/valdir-alves3000/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/valdir-alves3000/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/valdir-alves3000/js-developer-portfolio/main/data/imgs/react.png"
       },
@@ -73,7 +69,7 @@
     {
       "name": "Desenvolvedor Front End",
       "period": "DEC/2022 - DEC/2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "description": "Aplicação dsenvolvida para auxiliar no aprendizado com funções básicas da matemática."
     },
     {
       "name": "Desenvolvedor Mobile",
