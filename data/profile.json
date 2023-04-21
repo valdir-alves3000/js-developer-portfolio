@@ -12,8 +12,8 @@
         "logo": "https://raw.githubusercontent.com/valdir-alves3000/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/valdir-alves3000/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/valdir-alves3000/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "React",
@@ -75,6 +75,40 @@
       "name": "Desenvolvedor Mobile",
       "period": "MAY/2020 - FEV/2021",
       "description": "O jogo clássico da cobrinha, conhecido como 'Snake Game', foi desenvolvido utilizando React-Native e publicado na PlayStore."
+    }
+  ],
+  "courses": [
+    {
+      "name": "Formação Scrum Master Certification",
+      "url": "https://www.dio.me/certificate/B3B65D89/"
+    },
+    {
+      "name": "Formação TypeScript Fullstack Developer",
+      "url": "https://www.dio.me/certificate/09357C73/"
+    },
+    {
+      "name": "Linux Experience",
+      "url": "https://www.dio.me/certificate/7090E953/"
+    },
+    {
+      "name": "Impulso Javascript Evolution",
+      "url": "https://www.dio.me/certificate/43504E70/"
+    },
+    {
+      "name": "Eduzz Full Stack developer #3",
+      "url": "https://www.dio.me/certificate/7802F964/"
+    },
+    {
+      "name": "GFT  Star #4 .NET",
+      "url": "https://www.dio.me/certificate/5057CD03/"
+    },
+    {
+      "name": "Inter Frontend Developer",
+      "url": "https://www.dio.me/certificate/3335DCB0/"
+    },
+    {
+      "name": "Trilha Nodejs",
+      "url": "https://drive.google.com/file/d/1NxiI9qec6CYjVbSzfJ__3kiyuJVv0qvL/view"
     }
   ]
 }

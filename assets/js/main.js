@@ -78,6 +78,20 @@ function updateProfessionalExperience(profileData) {
     .join("");
 }
 
+function updateCourses(profileData) {
+  const courses = document.getElementById("profile.courses");
+  courses.innerHTML = profileData.courses
+    .map((couser) => {
+      return `
+            <li>
+                <h3>${couser.name}</h3>
+                <a href="${couser.url}" target="_blank">View Certificate</a>
+            </li>
+        `;
+    })
+    .join("");
+}
+
 (async () => {
   const profileData = await fetchProfileData();
   updateProfileInfo(profileData);
@@ -86,4 +100,5 @@ function updateProfessionalExperience(profileData) {
   updateLanguages(profileData);
   updatePortfolio(profileData);
   updateProfessionalExperience(profileData);
+  updateCourses(profileData);
 })();
